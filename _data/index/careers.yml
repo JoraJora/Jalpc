@@ -40,10 +40,10 @@
     i18n: week_3_jon
   icon: fa-plus-square
 - name:
-    detail: ...
-    i18n: ...
-  desc: ....
-    detail: ....
+    detail:
+    i18n: 
+  desc: 
+    detail: 
     i18n: week_4_desc
   date:
     detail: Semana 4

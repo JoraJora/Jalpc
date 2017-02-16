@@ -1,5 +1,5 @@
 # links section data
-- last_name: Name 1
+- last_name: 
   first_name:
   desc: CEO
   website: https://www.google.com
@@ -8,7 +8,7 @@
 - last_name: Donate
   first_name: Jalpc
   desc: Support Jalpc
-  website: http://www.jack003.com/donate/
+  website: 
   email: me@jack003.com
 
 - last_name: LN
