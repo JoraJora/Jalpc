@@ -6,16 +6,16 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: <UL TYPE=disc><LI> Primera voz del menú <LI> Segunda voz del menú <LI> Tercera voz del menú </UL>
+  desc: <UL><LI> Trabajos programados (30%) <LI> Examen Practico  (70%) </UL>
 
 - name: Segundo Corte 35%
   i18n: leetcode
   gh_user: kamyu104
   repo: LeetCode
   img: /static/assets/img/landing/leetcode.png
-  desc: LeetCode is a website which has many valuable algorithmic questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project.
+  desc: <UL><LI> Trabajos programados (30%) <LI>  Examen Practico (70%) </UL>
 
 - name: Corte Final 30%
   i18n: familycode
   img: /static/assets/img/landing/familycode.png
-  desc: Evaluación de proyecto de clase
+  desc: <UL><LI> Examen Final  (50%) <LI> Sustentación Trabajo Final (25%) <LI> Trabajo Final (25%) </UL>
