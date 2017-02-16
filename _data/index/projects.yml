@@ -6,14 +6,14 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: <ul style="list-style-type:none"><LI> Trabajos programados (30%) <LI> Examen Practico  (70%) </UL>
+  desc: <ul style="list-style-type:none"><LI> Examen Practico  (70%) <LI> Trabajos programados (30%) </UL>
 
 - name: Segundo Corte 35%
   i18n: leetcode
   gh_user: kamyu104
   repo: LeetCode
   img: /static/assets/img/landing/leetcode.png
-  desc: <ul style="list-style-type:none"><LI> Trabajos programados (30%) <LI>  Examen Practico (70%) </UL>
+  desc: <ul style="list-style-type:none"><LI>  Examen Practico (70%) <LI> Trabajos programados (30%) </UL>
 
 - name: Corte Final 30%
   i18n: familycode

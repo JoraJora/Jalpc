@@ -1,29 +1,54 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: 
+    i18n: 
   desc:
     detail: I worked at Company A ...
-    i18n: company_a_desc
+    i18n: week_1_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Semana 1
+    i18n: week_1_desc
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Programación - SAS
+    i18n: week_1_jon
   icon: fa-plus-square
-
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: 
+    i18n: 
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Company A ...
+    i18n: week_2_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Semana 1
+    i18n: week_2_desc
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Programación - SAS
+    i18n: week_2_jon
+  icon: fa-plus-square
+- name:
+    detail: 
+    i18n: 
+  desc:
+    detail: I worked at Company A ...
+    i18n: week_3_desc
+  date:
+    detail: Semana 1
+    i18n: week_3_desc
+  job:
+    detail: Programación - SAS
+    i18n: week_3_jon
+  icon: fa-plus-square
+- name:
+    detail: ...
+    i18n: ...
+  desc: ....
+    detail: ....
+    i18n: week_4_desc
+  date:
+    detail: Semana 4
+    i18n: week_4_desc
+  job:
+    detail: SPSS Tools
+    i18n: week_4_jon
   icon: fa-plus-square
