@@ -1,18 +1,27 @@
 # links section data
-- last_name: 
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: SPSS
+  first_name: Raynald's Tools
+  desc: Colección de códigos y de macros para implementar soluciones de manejo de datos y problemas análiticos
+  website: https://spsstools.net/en
+  
+- last_name: SAS
+  first_name: University Edition
+  desc: Descargar y probar SAS Studio
+  website: https://www.sas.com/en_us/software/university-edition.html
 
-- last_name: Donate
+- last_name: Descargar SAS
+  first_name: link de MEGA 
+  desc: Support Jalpc
+  website: https://igorlatsik13.blogspot.com.co/2015/02/sas-94-multi-licencia-mega.html
+
+- last_name: SAS
   first_name: Jalpc
   desc: Support Jalpc
-  website: 
-  email: me@jack003.com
+  website: https://spsstools.net/en
 
-- last_name: LN
+  
+- last_name: Programación
   first_name: FN
   desc: COO
   website: https://github.com
-  email: coo@google.com
+  

@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 
+    detail:  
     i18n: 
   desc:
-    detail: I worked at Company A ...
+    detail: <h3> Introducción </h3> <ul> <LI> Configuración SAS Server <LI> Introducción a la Programación <li> Introducción SAS <ul> <li> Tipos de rutina <li> Modos de procesamiento <li>  Interfaces de SAS <li> Ventanas de SAS</ul> <li> Taller Practico</UL>
     i18n: week_1_desc
   date:
     detail: Semana 1
     i18n: week_1_desc
   job:
-    detail: Programación - SAS
+    detail: Programación - SAS (Introducción)
     i18n: week_1_jon
   icon: fa-plus-square
 - name:
@@ -20,7 +20,7 @@
     detail: I worked at Company A ...
     i18n: week_2_desc
   date:
-    detail: Semana 1
+    detail: Semana 2
     i18n: week_2_desc
   job:
     detail: Programación - SAS
@@ -33,10 +33,10 @@
     detail: I worked at Company A ...
     i18n: week_3_desc
   date:
-    detail: Semana 1
+    detail: Semana 3
     i18n: week_3_desc
   job:
-    detail: Programación - SAS
+    detail: Macros - SAS
     i18n: week_3_jon
   icon: fa-plus-square
 - name:
@@ -48,7 +48,7 @@
   date:
     detail: Semana 4
     i18n: week_4_desc
-  job:
-    detail: SPSS Tools
+  job: 
+    detail: PROC SQL 
     i18n: week_4_jon
   icon: fa-plus-square
