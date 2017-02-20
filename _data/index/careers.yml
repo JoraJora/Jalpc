@@ -23,7 +23,7 @@
     detail: Semana 2
     i18n: week_2_desc
   job:
-    detail: Programación - SAS
+    detail: PROC SQL
     i18n: week_2_jon
   icon: fa-plus-square
 - name:
@@ -36,7 +36,7 @@
     detail: Semana 3
     i18n: week_3_desc
   job:
-    detail: Macros - SAS
+    detail: Programación - SAS
     i18n: week_3_jon
   icon: fa-plus-square
 - name:
@@ -49,6 +49,6 @@
     detail: Semana 4
     i18n: week_4_desc
   job: 
-    detail: PROC SQL 
+    detail: Macros - SAS
     i18n: week_4_jon
   icon: fa-plus-square
