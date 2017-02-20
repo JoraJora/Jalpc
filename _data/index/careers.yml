@@ -17,7 +17,7 @@
     detail: 
     i18n: 
   desc:
-    detail: I worked at Company A ...
+    detail: <h3> Procedimiento PROC SQL </h3> <ul> <LI> Introducción Base de datos <a href="http://elvex.ugr.es/idbis/db/docs/intro/B%20Bases%20de%20Datos.pdf"> (presentacion) </a> <LI> <LI> <a href="http://support.sas.com/documentation/onlinedoc/base/9.3/SQLDatasetsV9.zip"> Datos PROC SQL</a> <LI> <a href="http://ftp.sas.com/samples/A56936"> Instrucciones </a> <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL>
     i18n: week_2_desc
   date:
     detail: Semana 2
@@ -30,7 +30,7 @@
     detail: 
     i18n: 
   desc:
-    detail: I worked at Company A ...
+    detail: 
     i18n: week_3_desc
   date:
     detail: Semana 3
