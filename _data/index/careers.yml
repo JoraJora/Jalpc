@@ -4,7 +4,7 @@
     detail:  
     i18n: 
   desc:
-    detail: <h3> Introducción </h3> <ul> <LI> Configuración SAS Server <LI> Introducción a la Programación <li> Introducción SAS <ul> <li> Tipos de rutina <li> Modos de procesamiento <li>  Interfaces de SAS <li> Ventanas de SAS</ul> <li> Taller Practico</UL>
+    detail: <h3> Introducción </h3> <ul> <LI> Configuración SAS Server <LI> Introducción a la Programación <li> Introducción SAS <ul> <li> Tipos de rutina <li> Modos de procesamiento <li>  Interfaces de SAS <li> Ventanas de SAS</ul></UL>
     i18n: week_1_desc
   date:
     detail: Semana 1
@@ -20,14 +20,19 @@
     detail: <h3> Procedimiento PROC SQL (I Parte - <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/PROCSQL_I.sas"> Código </a>) </h3> <ul> 
             <LI> Introducción Base de datos <a href="http://elvex.ugr.es/idbis/db/docs/intro/B%20Bases%20de%20Datos.pdf"> (presentacion) </a> 
             <LI> Modelo entidad relación <a href = "http://artemisa.unicauca.edu.co/~gavasquez/res/BD/material/modelo%20E-R.pps">(presentacion) </a>
-            <LI> Manula de PROC SQL <a href = "https://support.sas.com/documentation/cdl/en/sqlproc/63043/PDF/default/sqlproc.pdf">(link) </a>
+            <LI> Manual de PROC SQL <a href = "https://support.sas.com/documentation/cdl/en/sqlproc/63043/PDF/default/sqlproc.pdf">(link) </a>
             <LI> <a href="http://support.sas.com/documentation/onlinedoc/base/9.3/SQLDatasetsV9.zip"> Datos PROC SQL</a> <a href="http://ftp.sas.com/samples/A56936"> (Instrucciones) </a> 
             <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL> 
             <h3> Procedimiento PROC SQL (II Parte) </h3>
             <UL>
-            <LI> Definición del Modelo relacional  
-            <LI> Operaciones conjutos <a href = "http://ict.udlap.mx/people/carlos/is341/bases03.html"> (recurso) </a>
+            <LI> Definición del Modelo relacional <a href = "http://ict.udlap.mx/people/carlos/is341/bases03.html"> (recurso) </a>
+            <LI> Operaciones conjutos
             <LI> <a href = "https://www.fing.edu.uy/tecnoinf/mvd/cursos/bd2/material/teo/bd2-teorico01.pdf"> Operaciones derivadas  </a>
+            <LI> Producto Cartesiano
+            <LI> Inner Join, self Join
+            <LI> Outer Joins  
+            <LI> CrossJoin, Union Join, Natural Join
+            <li> Taller Practico
             </ul>
   
 
