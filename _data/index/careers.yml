@@ -17,7 +17,12 @@
     detail: 
     i18n: 
   desc:
-    detail: <h3> Procedimiento PROC SQL (I Parte) </h3> <ul> <LI> Introducción Base de datos <a href="http://elvex.ugr.es/idbis/db/docs/intro/B%20Bases%20de%20Datos.pdf"> (presentacion) </a> <LI> Modelo entidad relación <a href = "http://artemisa.unicauca.edu.co/~gavasquez/res/BD/material/modelo%20E-R.pps">(presentacion) </a><LI> Manula de PROC SQL <a href = "https://support.sas.com/documentation/cdl/en/sqlproc/63043/PDF/default/sqlproc.pdf">(link) </a><LI> <a href="http://support.sas.com/documentation/onlinedoc/base/9.3/SQLDatasetsV9.zip"> Datos PROC SQL</a> <a href="http://ftp.sas.com/samples/A56936"> (Instrucciones) </a> <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL> <h3> Procedimiento PROC SQL (II Parte) </h3>
+    detail: <h3> Procedimiento PROC SQL (I Parte) </h3> <ul> 
+            <LI> Introducción Base de datos <a href="http://elvex.ugr.es/idbis/db/docs/intro/B%20Bases%20de%20Datos.pdf"> (presentacion) </a> 
+            <LI> Modelo entidad relación <a href = "http://artemisa.unicauca.edu.co/~gavasquez/res/BD/material/modelo%20E-R.pps">(presentacion) </a>
+            <LI> Manula de PROC SQL <a href = "https://support.sas.com/documentation/cdl/en/sqlproc/63043/PDF/default/sqlproc.pdf">(link) </a>
+            <LI> <a href="http://support.sas.com/documentation/onlinedoc/base/9.3/SQLDatasetsV9.zip"> Datos PROC SQL</a> <a href="http://ftp.sas.com/samples/A56936"> (Instrucciones) </a> 
+            <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL> <h3> Procedimiento PROC SQL (II Parte) </h3>
     i18n: week_2_desc
   date:
     detail: Semana 2
