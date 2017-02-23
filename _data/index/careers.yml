@@ -25,7 +25,9 @@
             <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL> 
             <h3> Procedimiento PROC SQL (II Parte) </h3>
             <UL>
-            <LI> Definición del Modelo relacional </a> 
+            <LI> Definición del Modelo relacional  
+            <LI> Operaciones conjutos <a href = "http://ict.udlap.mx/people/carlos/is341/bases03.html"> (recurso) </a>
+            <LI> <a href = "https://www.fing.edu.uy/tecnoinf/mvd/cursos/bd2/material/teo/bd2-teorico01.pdf"> Operaciones derivadas  </a>
             </ul>
   
 
