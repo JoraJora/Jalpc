@@ -23,7 +23,7 @@
             <LI> Manual de PROC SQL <a href = "https://support.sas.com/documentation/cdl/en/sqlproc/63043/PDF/default/sqlproc.pdf">(link) </a>
             <LI> <a href="http://support.sas.com/documentation/onlinedoc/base/9.3/SQLDatasetsV9.zip"> Datos PROC SQL</a> <a href="http://ftp.sas.com/samples/A56936"> (Instrucciones) </a> 
             <li> Extracción de datos <ul> <li> Comando SELECT <li> Comando FROM <li>  Clausula WHERE <li> Clausula GROUP BY <li> Clausula Having <li> Orden de las clausulas</ul> </UL> 
-            <h3> Procedimiento PROC SQL (II Parte) </h3>
+            <h3> Procedimiento PROC SQL (II Parte - <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/PROCSQL_II.sas"> Código </a>)</h3>
             <UL>
             <LI> Definición del Modelo relacional <a href = "http://ict.udlap.mx/people/carlos/is341/bases03.html"> (recurso) </a>
             <LI> Operaciones conjutos
@@ -32,9 +32,8 @@
             <LI> Inner Join, self Join
             <LI> Outer Joins  
             <LI> CrossJoin, Union Join, Natural Join
-            <li> Taller Practico
+            <li> <a href = "https://www.overleaf.com/read/pwhsgnxsxcqt"> Taller Practico </a>
             </ul>
-  
 
     i18n: week_2_desc
   date:
@@ -45,7 +44,16 @@
     i18n: week_2_jon
   icon: fa-plus-square
 - name:
-    detail: 
+    detail: <h3> Sintaxis  SAS </h3> <ul> 
+            <LI> Características - Reglas </a> 
+            <LI> Como crear Comentarios </a>
+            <LI> Depuración y Errores </a>
+            </ul>
+            <h3>  Acceso de datos a SAS </h3>
+            <UL> 
+            <LI> Características de un conjunto de datos.
+            <LI> Accediendo a la librerias de SAS.
+            </UL>
     i18n: 
   desc:
     detail: 
