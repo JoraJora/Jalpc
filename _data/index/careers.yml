@@ -44,19 +44,31 @@
     i18n: week_2_jon
   icon: fa-plus-square
 - name:
-    detail: <h3> Sintaxis  SAS </h3> <ul> 
-            <LI> Características - Reglas </a> 
-            <LI> Como crear Comentarios </a>
-            <LI> Depuración y Errores </a>
-            </ul>
-            <h3>  Acceso de datos a SAS </h3>
-            <UL> 
-            <LI> Características de un conjunto de datos.
-            <LI> Accediendo a la librerias de SAS.
-            </UL>
+    detail: 
     i18n: 
   desc:
-    detail: 
+    detail: <h3> Códigos en SAS (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/SAS_CODE_I.sas"> Código </a>)</h3> <ul> <LI> Características - Reglas </a> 
+            <LI> Como crear Comentarios
+            <LI> Depuración y Errores 
+            <LI> Reglas de Sintaxis 
+            <li> Acceso de datos a SAS 
+              <UL> 
+              <LI> Características de un conjunto de datos.
+              <LI> Accediendo a la librerias de SAS.
+              <LI> Descripción de las librerias de SAS.
+              </UL>
+            </UL>
+            <H3> Selección, Agrupamiento y Reportes </h3> 
+            <LI> DATA STEP </a>
+            <LI> Depuración y Errores </a>
+            <li>  Acceso de datos a SAS 
+              <UL> 
+              <LI> Características de un conjunto de datos.
+              <LI> Accediendo a la librerias de SAS.
+              <LI> Descripción de las librerias de SAS.
+              </UL>
+            </UL>
+
     i18n: week_3_desc
   date:
     detail: Semana 3

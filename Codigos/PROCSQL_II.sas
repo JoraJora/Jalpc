@@ -175,3 +175,10 @@ proc sql;
  select *
  from one union join two;
 quit;
+
+proc sql outobs=6;
+ title 'Oil Production/Reserves of Countries';
+ select country, barrelsperday 'Production', barrels 'Reserve'
+ from sql.oilprod natural join sql.oilrsrvs
+ order by barrelsperday desc;
+quit;
