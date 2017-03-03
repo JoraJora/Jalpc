@@ -47,27 +47,35 @@
     detail: 
     i18n: 
   desc:
-    detail: <h3> Códigos en SAS (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/SAS_CODE_I.sas"> Código </a>)</h3> <ul> <LI> Características - Reglas </a> 
-            <LI> Como crear Comentarios
-            <LI> Depuración y Errores 
-            <LI> Reglas de Sintaxis 
-            <li> Acceso de datos a SAS 
-              <UL> 
-              <LI> Características de un conjunto de datos.
-              <LI> Accediendo a la librerias de SAS.
-              <LI> Descripción de las librerias de SAS.
-              </UL>
+    detail: <h3> Códigos en SAS (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/SAS_CODE_I.sas"> Código </a>)</h3> 
+            <ul> 
+              <li>Características - Reglas 
+              <LI> Como crear Comentarios
+              <LI> Depuración y Errores 
+              <LI> Reglas de Sintaxis 
+              <li> Acceso de datos a SAS 
+                <UL> 
+                <LI> Características de un conjunto de datos.
+                <LI> Accediendo a la librerias de SAS.
+                <LI> Descripción de las librerias de SAS.
+                </UL>
             </UL>
-            <H3> Selección, Agrupamiento y Reportes </h3> 
-            <LI> DATA STEP </a>
-            <LI> Depuración y Errores </a>
-            <li>  Acceso de datos a SAS 
-              <UL> 
-              <LI> Características de un conjunto de datos.
-              <LI> Accediendo a la librerias de SAS.
-              <LI> Descripción de las librerias de SAS.
-              </UL>
-            </UL>
+            <H3> Selección de datos </h3> 
+            <ul> 
+              <li> Filtros con PROC PRINT (Var, Sum, Where, ID Statement)
+              <li> Operadores Logicos
+              <li> Operadores Especiales
+              <li> Ordenamiento y Agrupación (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/SAS_CODE_II.sas"> Código </a>)
+                  <ul> 
+                    <li> Proc SORT
+                    <li> Agrupamiento de variables
+                    <li> Mejorando los reportes (tile y footnote)
+                  </ul>
+              <li> Formatos de las variables (Propias y Definidas por los Usuarios)
+              <li> DROP, KEEP y IF (IF vs WHERE)
+              <li> Sentencia LABEL
+            </ul>
+            <H3> Procesos Batch</H3>
 
     i18n: week_3_desc
   date:
