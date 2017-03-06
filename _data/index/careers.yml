@@ -94,10 +94,16 @@
               <li> Como correr un Script de SAS/R (Batch Mode)
             </ul>
             <li> <h3> Lectura de archivos </h3>
-            <li> Lectura de archivos EXCEL
-            <li> Lectura Raw data
-            <li> Lectura de archivos Delimitados por Coma
-            <li> DROP, KEEP y IF (IF vs WHERE)
+            <ul>
+              <li> Lectura de archivos EXCEL
+              <li> Lectura Raw data
+              <li> Lectura de archivos Delimitados por Coma
+              <li> DROP, KEEP y IF (IF vs WHERE)
+            </ul>
+            <H3> </a href="http://www.wikihow.com/Write-a-Batch-File"> Macros en SAS </a> </h3>
+              <li> <a href="http://www2.sas.com/proceedings/sugi29/243-29.pdf"> Macro Programming for Beginners </a>
+              <li> Macro variable
+              <li> Definición de las macros.
             </ul>            
     i18n: week_4_desc
   date:
