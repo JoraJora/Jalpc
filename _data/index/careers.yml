@@ -88,7 +88,7 @@
   desc: 
     detail: 
             <ul>
-            <li> <H3> Procesos Batch </a href="http://www.wikihow.com/Write-a-Batch-File"> (Ejemplo)</a></H3>
+            <li> <H3> Procesos Batch </H3> </a href="http://www.wikihow.com/Write-a-Batch-File"> (Ejemplo)</a>
             <ul>
               <li> Principales instrucciones 
               <li> Como correr un Script de SAS/R (Batch Mode)
@@ -100,7 +100,7 @@
               <li> Lectura de archivos Delimitados por Coma
               <li> DROP, KEEP y IF (IF vs WHERE)
             </ul>
-            <H3> </a href="http://www.wikihow.com/Write-a-Batch-File"> Macros en SAS </a> </h3>
+            <H3> Macros en SAS </h3>
               <li> <a href="http://www2.sas.com/proceedings/sugi29/243-29.pdf"> Macro Programming for Beginners </a>
               <li> Macro variable
               <li> Definición de las macros.
