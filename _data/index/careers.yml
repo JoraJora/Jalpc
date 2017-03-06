@@ -88,7 +88,7 @@
   desc: 
     detail: 
             <ul>
-            <li> <H3> Procesos Batch </H3> </a href="http://www.wikihow.com/Write-a-Batch-File"> (Ejemplo)</a>
+            <li> <H3> Procesos Batch <a href="http://www.wikihow.com/Write-a-Batch-File"> (Ejemplo)</a> </H3> 
             <ul>
               <li> Principales instrucciones 
               <li> Como correr un Script de SAS/R (Batch Mode)
