@@ -100,10 +100,12 @@
               <li> Lectura de archivos Delimitados por Coma
               <li> DROP, KEEP y IF (IF vs WHERE)
             </ul>
-            <H3> Macros en SAS </h3>
+            <li><H3> Macros en SAS </h3>
+            <ul>
               <li> <a href="http://www2.sas.com/proceedings/sugi29/243-29.pdf"> Macro Programming for Beginners </a>
               <li> Macro variable
-              <li> Definición de las macros.
+              <li> Definición de las macros
+              <li> <a href="https://support.sas.com/documentation/cdl/en/mcrolref/62978/PDF/default/mcrolref.pdf"> Guia de referencia de Macros </a>
             </ul>            
     i18n: week_4_desc
   date:
