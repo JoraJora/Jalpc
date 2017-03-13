@@ -12,7 +12,7 @@ proc contents data=main; run;
 
 /* 1. Create a macro variable using the %let statement */
 %let newvar = var3;
-%put &GLOBAL_ANO.;
+%put &newvar.;
 
 /* 2. Use the & operator to call a macro variable */
 data new_main; set main;

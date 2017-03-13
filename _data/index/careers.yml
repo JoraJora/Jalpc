@@ -116,3 +116,27 @@
     detail: Macros - SAS
     i18n: week_4_jon
   icon: fa-plus-square
+- name:
+    detail:
+    i18n: 
+  desc: 
+    detail: 
+            <ul>
+            <li><H3> Ejemplos Macros en SAS </h3>
+            <ul>
+              <li> Otro ejemplo de LET (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M1.sas">Ejemplo Inicial</a>)
+              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.sas">Ejemplo Means/corr</a>
+              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.5%20-%20collecting%20lsmeans.sas">Ejemplo GLM</a>
+              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M3.sas">Merge Stats</a>
+              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M4.sas">Macros con PROC DATA y PROC STEP </a>
+              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros.zip"> Descargar </a>
+            <li>  
+            </ul>            
+    i18n: week_4_desc
+  date:
+    detail: Semana 5
+    i18n: week_5_desc
+  job: 
+    detail: Macros - SAS
+    i18n: week_5_jon
+  icon: fa-plus-square
