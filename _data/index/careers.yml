@@ -123,13 +123,20 @@
     detail: 
             <ul>
             <li><H3> Ejemplos Macros en SAS  (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros.zip"> Descargar Todo</a>)</h3>
-            <ul>
-              <li> Otro ejemplo de LET (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M1.sas">Ejemplo Inicial</a>)
-              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.sas">Ejemplo Means/corr</a>
-              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.5%20-%20collecting%20lsmeans.sas">Ejemplo GLM</a>
-              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M3.sas">Merge Stats</a>
-              <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M4.sas">Macros con PROC DATA y PROC STEP </a>
-
+              <ul>
+                <li> Otro ejemplo de LET (<a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M1.sas">Ejemplo Inicial</a>)
+                <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.sas">Ejemplo Means/corr</a>
+                <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M2.5%20-%20collecting%20lsmeans.sas">Ejemplo GLM</a>
+                <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M3.sas">Merge Stats</a>
+                <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/M4.sas">Macros con PROC DATA y PROC STEP </a>
+              </ul>
+            <li> Ejemplo de procedimientos Estadisticos (<a href = "https://support.sas.com/documentation/cdl/en/statug/63962/HTML/default/viewer.htm#titlepage.htm"> Manual de Usuario </a>)
+              <ul>
+                <li> PROC MEANS  (ejemploS)
+                <li> PROC FREQ
+                <li> PROC UNIVARIATE
+                <li> PROC CLUSTER (<a href="https://support.sas.com/documentation/cdl/en/statug/63347/HTML/default/viewer.htm#cluster_toc.htm"> Guía de Usuario</a>)
+              </ul>
             </ul>            
     i18n: week_4_desc
   date:

@@ -1,6 +1,6 @@
-* Macro variables;
+﻿* Macro variables;
 
-libname y "y:\sas\macros";
+libname y "C:\Users\jota9\Documents\Jalpc\Codigos\Macros";
 libname library (y);
 
 /* SYMBOLGEN lets you see every time SAS
@@ -21,6 +21,8 @@ options symbolgen;
 proc freq data=&dsn;
 	tables &varlist / nocum;
 run;
+
+
 * This is essentially text substitution, pretty simple;
 
 
@@ -37,12 +39,12 @@ run;
 proc means data=&dsn;
 	var &varlist;
 	class R0002400;
-	run;
+run;
 
 
 * A nested macro variable;
 %let married = &dsn(where=(R0002400=1));
-%*let varlist = R0856900 R0967600; /* macro comment */
+%let varlist = R0856900 R0967600; /* macro comment */
 
 proc means data=&married; 
 	var &varlist;
@@ -56,9 +58,10 @@ proc means data=&married;
 run;
 
 title;
+
 proc corr data=&dsn;
 	var &varlist;
-	run;
+run;
 
 
 *More debugging;

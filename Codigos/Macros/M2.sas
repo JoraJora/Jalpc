@@ -1,5 +1,5 @@
 * Macros, i.e. macros as programs or functions;
-libname y "y:\sas\macros";
+libname y "";
 libname library (y);
 
 title;
