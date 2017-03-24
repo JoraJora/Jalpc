@@ -132,6 +132,7 @@
               </ul>
             <li><H3> Ejemplo de procedimientos Estadisticos (<a href = "https://support.sas.com/documentation/cdl/en/statug/63962/HTML/default/viewer.htm#titlepage.htm"> Manual de Usuario </a>)</H3> 
               <ul>
+                <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros/cake_example.sas"> DATOS </a>
                 <li> PROC MEANS  (<a href="https://teamsite.smu.edu.sg/wiki/stats/wiki/sas%20elementary%20statistical%20procedures.aspx"> ejemplos </a>)
                 <li> PROC FREQ
                 <li> PROC UNIVARIATE
