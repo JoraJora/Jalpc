@@ -4,8 +4,9 @@
 -7 -2 1 3 6 10 15 21 30 21 4 15 3 69 21 0 -3 -6 -12 -52 32 1 0 -10
 ;
  
-proc means data=devnorm maxdec=3 n mean
+proc means data=devnorm maxdec=3 n mean           
            std stderr t probt;
+		   output out=meansdevnorm;
 run;
 
 options nodate pageno=1 linesize=80 pagesize=60;
