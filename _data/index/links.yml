@@ -2,13 +2,17 @@
 - last_name: SPSS
   first_name: Raynald's Tools
   desc: Colección de códigos y de macros para implementar soluciones de manejo de datos y problemas análiticos
-  website: https://spsstools.net/en
+  website: spsstools.net/en
 
 - last_name: SPSS
   first_name: Link de MEGA
   desc: Descargar y probar SPSS
   website: https://mega.nz/#!tgQwjJJK!nIVscc601_zD2aYhA4nJwwT3OArYtaNsuAgLPrX8hUE
 
+- last_name: SPSS
+  first_name: Link de libro SPSS
+  desc: Raynald Libro
+  website: http://spsstools.net/static/spss-programming-book/DMbook19.zip
   
 - last_name: SAS
   first_name: University Edition
