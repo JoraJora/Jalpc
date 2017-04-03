@@ -176,3 +176,47 @@
     detail: Macros - SAS
     i18n: week_6_jon
   icon: fa-plus-square
+- name:
+    detail:
+    i18n: 
+  desc: 
+    detail: 
+      <ul>
+      <li><H3>  INTRODUCCION AL SPSS  (<a href="http://pendientedemigracion.ucm.es/info/socivmyt/paginas/D_departamento/materiales/datos_multivariante.htm"> Tomado de</a>)</h3>
+      <ul>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/01estruc_SPSS.pdf"> Estructura del Spss </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/02ayuda_SPSS.pdf"> Cómo utilizar la ayuda </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/03datos_SPSS.pdf"> Archivos de datos </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/04editor_SPSS.pdf"> El editor de datos </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/05transf_SPSS.pdf"> Transformar datos </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/06modifi_SPSS.pdf"> Modificar archivos de datos </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/07result_SPSS.pdf"> (Archivos de resultados) el visor de SPSS </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/08tablas_SPSS.pdf"> Editar tablas de resultados </a>>
+        <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/09sintax_SPSS.pdf"> Archivos de sintaxis </a>>
+      </ul>
+
+      <li><H3>  ANALISIS DE DATOS (<a href="http://pendientedemigracion.ucm.es/info/socivmyt/paginas/D_departamento/materiales/datos_multivariante.htm"> Tomado de</a>)</h3>
+      <ul>
+        <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/10frec_SPSS.pdf"> (Análisis descriptivo) Los procedimientos Frecuencias y Descriptivos </a>
+        <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/11explor_SPSS.pdf"> (Análisis exploratorio) el procedimiento Explorar </a>
+        <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/12contin_SPSS.pdf"> (Análisis de variables categóricas) el procedimiento Tablas de Contingencia </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/13medias_SPSS.pdf"> (Contrastes sobre medias) los procedimientos Medias y Pruebas T </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/14anova1_SPSS.pdf"> (Análisis de varianza de un factor) el procedimiento ANOVA de un factor. </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/15anova2_SPSS.pdf"> (Análisis de varianza factorial - el procedimiento Modelo Lineal General) Univariante </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/16anovar_SPSS.pdf"> (Análisis de varianza con medidas repetidas - el procedimiento MLG) medidas repetidas </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/17corlin_SPSS.pdf"> (Análisis de correlación lineal) los procedimientos Correlaciones bivariadas y Correlaciones parciales </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/18reglin_SPSS.pdf"> (Análisis de regresión lineal) el procedimiento Regresión Lineal </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/19nparam_SPSS.pdf"> (Análisis no paramétrico) el procedimiento Pruebas no paramétricas </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/20factor_SPSS.pdf"> (Análisis factorial) el procedimiento Análisis factorial </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/21conglk_SPSS.pdf"> (Análisis de conglomerados) el procedimiento Conglomerados de K medias </a>
+          <li> <a href="https://raw.githubusercontent.com/JoraJora/Jalpc/master/Lectura/SPSS_Lecturas/23discr_SPSS.pdf"> (Análisis discriminante) el procedimiento Discriminante </a>
+      </ul>
+      </ul>         
+    i18n: week_7_desc
+  date:
+    detail: Semana 7
+    i18n: week_7_desc
+  job: 
+    detail: Introducción - SPSS
+    i18n: week_7_jon
+  icon: fa-plus-square
