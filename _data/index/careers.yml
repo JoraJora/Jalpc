@@ -228,13 +228,13 @@
   desc: 
     detail: 
       <ul>
-      <li><H3>  INTRODUCCION AL MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
+      <li><H3>  INTRODUCCION MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
       <ul>
         <li> <a href = "http://spsstools.net/en/syntax/syntax-index/batch-files/example-of-bat-file-running-an-sps-file/"> Ejemplo de proceso Batch con SPSS </a>
         <li> <a href = "http://spsstools.net/en/syntax/syntax-index/data-validation/perform-tests-on-ssn/"> EJemplo Definición DATA</a>
         <li> <a href = "http://spsstools.net/en/macros/macros-index/utilities/define-paths-to-files-by-macro/"> Definición macro variables </a>
       </ul>
-      <li><H3>  UTILIDADES MACROS (<a href="http://pendientedemigracion.ucm.es/info/socivmyt/paginas/D_departamento/materiales/datos_multivariante.htm"> Link </a>)</h3>
+      <li><H3>  UTILIDADES MACROS </h3>
       </ul>         
     i18n: week_8_desc
   date:
