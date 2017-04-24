@@ -221,7 +221,6 @@
     detail: Introducción - SPSS
     i18n: week_7_jon
   icon: fa-plus-square
-
 - name:
     detail:
     i18n: 
@@ -229,14 +228,19 @@
     detail: 
       <ul>
       <li><H3>  INTRODUCCION MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
-      <ul>
-        <li> <a href = "http://spsstools.net/en/syntax/syntax-index/batch-files/example-of-bat-file-running-an-sps-file/"> Ejemplo de proceso Batch con SPSS </a>
-        <li> <a href = "http://spsstools.net/en/syntax/syntax-index/data-validation/perform-tests-on-ssn/"> EJemplo Definición DATA</a>
-        <li> <a href = "http://spsstools.net/en/macros/macros-index/utilities/define-paths-to-files-by-macro/"> Definición macro variables </a>
-      </ul>
+        <ul>
+          <li> <a href = "http://spsstools.net/en/syntax/syntax-index/batch-files/example-of-bat-file-running-an-sps-file/"> Ejemplo de proceso Batch con SPSS </a>
+          <li> <a href = "http://spsstools.net/en/syntax/syntax-index/data-validation/perform-tests-on-ssn/"> EJemplo Definición DATA</a>
+          <li> <a href = "http://spsstools.net/en/macros/macros-index/utilities/define-paths-to-files-by-macro/"> Definición macro variables </a>
+        </ul>
       <li><H3>  UTILIDADES MACROS </h3>
-        <li> <a href = "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf"> Metodos Kernel </a>
-        <li> <a href = "http://spsstools.net/en/syntax/syntax-index/matrix/"> Matrices en SPSS</a>
+        <ul>
+          <li> <a href = "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf"> Metodos Kernel </a>
+          <li> <a href = "http://spsstools.net/en/syntax/syntax-index/matrix/"> Matrices en SPSS</a>
+          <li> <a href = "http://web.pdx.edu/~newsomj/semclass/ho_matrix.pdf"> Otros ejemplos de matrices </a>
+          <li> <a href = "http://spsstools.net/en/macros/learning-macros/#basics"> Introducción a la definición de macro variables</a>
+          <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/datosRegresion.txt"> Datos Para regresión kernel </a>
+        </ul>
       </ul>         
     i18n: week_8_desc
   date:
