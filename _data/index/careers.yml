@@ -259,7 +259,7 @@
         <ul>
           <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/datosRegresion.txt"> Datos Para regresión kernel </a>
           <li> <a href = "http://spsstools.net/en/syntax/syntax-index/data-validation/perform-tests-on-ssn/"> Macro para lectura de bases</a>
-          <li> <a href = "https://en.wikipedia.org/wiki/Radial_basis_function_kernel"> Kernel Gaus </a>
+          <li> <a href = "https://en.wikipedia.org/wiki/Radial_basis_function_kernel"> Kernel Gaussiano </a>
         </ul>
       <li><H3>  UTILIDADES BATCH </h3>
         <ul>
