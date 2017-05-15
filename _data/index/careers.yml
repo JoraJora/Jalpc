@@ -286,7 +286,7 @@
       <li><H3>  MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
         <ul>
           <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/datosRegresion.txt"> Datos Para regresión kernel </a>
-          <li> <a href = "http://www.spsstools.net/en/documents/26/KO_MATRIX___END_MATRIX_functions_EN.zip"> Ejemplp de Macros con matrices</a>
+          <li> <a href = "http://www.spsstools.net/en/documents/26/KO_MATRIX___END_MATRIX_functions_EN.zip"> Ejemplo de Macros con matrices</a>
           <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros_spss/regresionKernels.sps">  Implementación Regresión Kernel</a>
           <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros_spss/gaussKernel.sps"> Implementación Kernel Gaussiano </a>
         </ul>
