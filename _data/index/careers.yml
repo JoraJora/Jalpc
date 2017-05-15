@@ -257,9 +257,8 @@
       <ul>
       <li><H3>  MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
         <ul>
-          <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/datosRegresion.txt"> Datos Para regresión kernel </a>
           <li> <a href = "http://spsstools.net/en/syntax/syntax-index/data-validation/perform-tests-on-ssn/"> Macro para lectura de bases</a>
-          <li> <a href = "https://en.wikipedia.org/wiki/Radial_basis_function_kernel"> Kernel Gaussiano </a>
+          <li> <a href = "https://en.wikipedia.org/wiki/Radial_basis_function_kernel"> Kernel Gaussianox| </a>
         </ul>
       <li><H3>  UTILIDADES BATCH </h3>
         <ul>
@@ -277,4 +276,26 @@
   job: 
     detail: Macros - SPSS
     i18n: week_9_jon
+  icon: fa-plus-square
+- name:
+    detail:
+    i18n: 
+  desc: 
+    detail: 
+      <ul>
+      <li><H3>  MACROS SPSS (<a href="http://spsstools.net/en/macros/"> Link </a>)</h3>
+        <ul>
+          <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/datosRegresion.txt"> Datos Para regresión kernel </a>
+          <li> <a href = "http://www.spsstools.net/en/documents/26/KO_MATRIX___END_MATRIX_functions_EN.zip"> Ejemplp de Macros con matrices</a>
+          <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros_spss/regresionKernels.sps">  Implementación Regresión Kernel</a>
+          <li> <a href = "https://raw.githubusercontent.com/JoraJora/Jalpc/master/Codigos/Macros_spss/gaussKernel.sps"> Implementación Kernel Gaussiano </a>
+        </ul>
+      </ul>         
+    i18n: week_10_desc
+  date:
+    detail: Semana 10
+    i18n: week_10_desc
+  job: 
+    detail: Macros - SPSS
+    i18n: week_10_jon
   icon: fa-plus-square
